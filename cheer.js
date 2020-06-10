@@ -1,3 +1,5 @@
+
 const cheer = (text) => {
-    console.log('JS');
+	console.log('Cheer for the ' + text);
 };
+
