@@ -1,3 +1,3 @@
-const cheer = () => {
-    console.log("OPAL");
+const cheer = (text) => {
+    console.log(text);
 };
