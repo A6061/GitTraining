@@ -1,3 +1,5 @@
-const cheer = (text1,text2) => {
-    console.log(text1,text2);
+
+const cheer = (text) => {
+	console.log('Cheer for the ' + text);
 };
+
