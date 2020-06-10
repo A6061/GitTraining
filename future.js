@@ -1,3 +1,5 @@
 function future(horoscope) {
-	console.log("ikrek");
+	console.log("Your future looks like: " + horoscope);
 }
+
+future("Szar? Jo? x)")
