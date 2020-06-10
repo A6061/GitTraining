@@ -2,6 +2,6 @@
 
 let orsiAge = 8;
 
-function myAge() {
-    console.log(orsiAge);
+function myAge(count) {
+    console.log(`Counting the countless ${count}`);
 }
