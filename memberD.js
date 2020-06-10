@@ -1,3 +1,3 @@
-function future() {
-	console.log('sagittarius');
+function future(horoscope) {
+	console.log(horoscope);
 }
