@@ -1,3 +1,3 @@
 const cheer = (text) => {
-    console.log(text);
+    console.log('JS');
 };
