@@ -1,3 +1,3 @@
 function future(horoscope) {
-	console.log(horoscope);
+	console.log("ikrek");
 }
