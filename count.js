@@ -1,5 +1,7 @@
 'use strict';
 
-let myAge = 46;
+let orsiAge = 46;
 
-console.log(myAge);
+function myAge() {
+    console.log(orsiAge);
+}
